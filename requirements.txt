@@ -1,0 +1,2 @@
+websocket-client
+google_auth

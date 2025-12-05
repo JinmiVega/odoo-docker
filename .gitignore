@@ -1,0 +1,12 @@
+odoo_pg_pass
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+build/
+docker-compose.override.yml
+enterprise/
+themes/
